@@ -1,3 +1,5 @@
+<img width="457" height="348" alt="image" src="https://github.com/user-attachments/assets/c5f0ef62-c5e3-49f6-a5be-6d046f6acdc2" />
+
 * Upload map and GPS track through the hidden menu on the left.
 * Two point align: Roughly adjust the track to the course by clicking on a control ring and then clicking on its position on the map. Do the same for another control as far away from the first as possible.
 * Fine-tune the rest of the controls by left-clicking and dragging the ring to the right place on the map. If you change your mind, you can click again.
