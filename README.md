@@ -7,4 +7,4 @@ Note: the rings are a bit hard to see, so it may be a good idea to zoom in a bit
 
 When you are finished, you can save as a .png file.
 
-Your site is live at https://janbergman.github.io/tcx2map/
+My site is live at https://janbergman.github.io/tcx2map/
