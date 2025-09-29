@@ -9,4 +9,6 @@ Note: the rings are a bit hard to see, so it may be a good idea to zoom in a bit
 
 When you are finished, you can save as a .png file.
 
+This program was "vibe-coded" with Gemini CLI (Gemini 2.5 Pro) about 16 iterations. 
+
 My site is live at https://janbergman.github.io/tcx2map/
